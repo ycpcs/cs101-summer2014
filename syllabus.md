@@ -51,7 +51,7 @@ Your course grade will be determined as follows:
 
 -   Homework (programming assignments): 15% **(\*)**
 -   Quizzes (in class): 15%
--   Exams (4 midterms and 1 cumulative final exam, lowest score dropped): 70% **(&dagger;)**
+-   Exams (2 midterms and 1 cumulative final exam, lowest score dropped): 70% **(&dagger;)**
 
 **(\*)** You must demonstrate significant effort on all homework assignments in order to pass the course.
 

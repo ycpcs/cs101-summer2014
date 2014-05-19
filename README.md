@@ -3,7 +3,7 @@ layout: default
 title: README
 ---
 
-This is the website for CS 101, Spring 2014 at York College of
+This is the website for CS 101, Summer 2014 at York College of
 Pennsylvania.
 
 Unless indicated otherwise, all materials are
