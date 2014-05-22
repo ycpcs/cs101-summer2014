@@ -17,7 +17,6 @@ and submitting the labs will negatively impact your course grade.
 > Week 1 (May 19&ndash;23) | [Lab 4: Salary Calculator](lab04.html) | [CS101\_Lab04.zip](CS101_Lab04.zip)
 > Week 2 (May 26&ndash;30) | [Lab 5: Conditions reading/modifying exercise](lab05.html) | [CS101\_Lab05.zip](CS101_Lab05.zip)
 > Week 2 (May 26&ndash;30) | [Lab 6: Checking the Weather](lab06.html) | [CS101\_Lab06.zip](CS101_Lab06.zip)
->  | Class canceled due to snow
 > Week 3 (June 2&ndash;6) | [Lab 7: For loops](lab07.html) | n/a
 > Week 3 (June 2&ndash;6) | [Lab 8: Gone loopy](lab08.html) | [CS101\_Lab08.zip](CS101_Lab08.zip)
 > Week 3 (June 2&ndash;6) | [Lab 9: Fancy Rectangle](lab09.html) | [CS101\_Lab09.zip](CS101_Lab09.zip)
