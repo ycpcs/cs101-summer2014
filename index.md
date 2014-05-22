@@ -36,6 +36,8 @@ All information about the course will be posted here.
 
 ## News
 
+* **May 22** - The [Schedule](schedule.html) has been updated with dates for readings and exams.
+* **May 22** - [Assignment 1](assign/assign01.html) has been posted on the [Assignments Page](assign/index.html).  It is due Thursday, May 29th by 11:59 PM.
 * **May 20** - Welcome!
 
 <!-- vim:set wrap: ­-->
