@@ -36,6 +36,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **May 27** - [Assignment 2](assign/assign02.html) has been posted on the [Assignments Page](assign/index.html).  There are two milestones, due Tuesday, June 3rd and Tuesday, June 10th.
 * **May 27** - The [Schedule](schedule.html) is essentially complete now, although there may be minor changes in the future.
 * **May 22** - The [Schedule](schedule.html) has been updated with dates for readings and exams.
 * **May 22** - [Assignment 1](assign/assign01.html) has been posted on the [Assignments Page](assign/index.html).  It is due Thursday, May 29th by 11:59 PM.
