@@ -36,6 +36,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **May 29** - The [Labs](labs/index.html) are now up to date.  At this point the website should have all of the work that is required for the course: please [let me know](mailto:dhovemey@ycp.edu) if you find any missing or incorrect information.
 * **May 29** - [Assignment 6](assign/assign06.html) has also been posted on the [Assignments Page](assign/index.html).  All of the assignments are now posted.
 * **May 29** - [Assignment 4](assign/assign04.html) and [Assignment 5](assign/assign05.html) have been posted: see the [Assignments Page](assign/index.html) for due dates.
 * **May 27** - [Assignment 3](assign/assign03.html) has been posted on the [Assignments Page](assign/index.html).  There are two milestones, due Tuesday, June 17th and Tuesday, June 24th.
