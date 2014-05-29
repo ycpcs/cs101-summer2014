@@ -3,7 +3,7 @@ layout: default
 title: "Labs"
 ---
 
-This page lists the in-class lab activities.
+This page lists the lab activities.
 
 Although labs are not graded, they are part of the quizzes, attendance,
 and participation component of the course grade.  Not completing
@@ -26,8 +26,9 @@ and submitting the labs will negatively impact your course grade.
 > Week 5 (June 16&ndash;20) | [Lab 13: Right Triangle](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
 > Week 6 (June 23&ndash;27)  | [Lab 14: Simple Stats](lab14.html) | [CS101\_Lab14.zip](CS101_Lab14.zip)
 > Week 6 (June 23&ndash;27) | [Lab 15: Functions reading/modifying exercise](lab15.html) | [CS101\_Lab15.zip](CS101_Lab15.zip)
-> Week 8 (July 7&ndash;11)  | [Lab 16: Grass Fire](lab16.html) <br> [Lab 17: Fancy Output](lab17.html) | [CS101\_Lab16.zip](CS101_Lab16.zip) <br> [CS101\_Lab17.zip](CS101_Lab17.zip)
+> Week 8 (July 7&ndash;11)  | [Lab 16: Grass Fire](lab16.html) | [CS101\_Lab16.zip](CS101_Lab16.zip)
+> Week 8 (July 7&ndash;11)  | [Lab 17: Fancy Output](lab17.html) | [CS101\_Lab17.zip](CS101_Lab17.zip)
 > Week 8 (July 7&ndash;11) | [Lab 18: Boing!](lab18.html) | [CS101\_Lab18.zip](CS101_Lab18.zip)
 > Week 9 (July 14&ndash;18) | [Lab 19: Boing! revisited](lab19.html) | [CS101\_Lab19.zip](CS101_Lab19.zip)
 > Week 10 (July 14&ndash;18) | [Lab 20: Boing! with pointers](lab20.html) | [CS101\_Lab20.zip](CS101_Lab20.zip)
-> Week 11 (July 21&ndash;23) | [Lab 21: Boing! particle simulation](lab21.html) | [CS101\_Lab21.zip](CS101_Lab21.zip)
+> Week 11 (July 21&ndash;25) | [Lab 21: Boing! particle simulation](lab21.html) | [CS101\_Lab21.zip](CS101_Lab21.zip)
