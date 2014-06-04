@@ -76,3 +76,8 @@ tr, th, td {
 	border: 1px solid black;
 	padding: 2px 6px;
 }
+
+/* Minor tweak to get the CC image link to align nicely with the footer text */
+a.cc-img {
+	vertical-align: -2px;
+}
