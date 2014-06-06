@@ -102,21 +102,23 @@ Hints
 
 You can allow your program to generate random integer values as follows.
 
--   Add **\#include &lt;stdlib.h&gt;** and **\#include &lt;time.h&gt;** to the top of the file (above or below **\#include &lt;stdio.h&gt;**)
--   The first line of code in your **main** function should be
+Add **\#include &lt;stdlib.h&gt;** and **\#include &lt;time.h&gt;** to the top of the file (above or below **\#include &lt;stdio.h&gt;**)
 
-    {% highlight java %}
-    srand(time(0));
-    {% endhighlight %}
+The first line of code in your **main** function should be
 
-    This "seeds" the random number generator to ensure that your program produces a different sequence of random numbers each time it is run.
--   You can generate a random integer between 1 and 3 with the code
+{% highlight java %}
+srand(time(0));
+{% endhighlight %}
 
-    {% highlight java %}
-    int car = (rand() % 3) + 1;
-    {% endhighlight %}
+This "seeds" the random number generator to ensure that your program produces a different sequence of random numbers each time it is run.
 
-    In this code, "**rand()**" generates a random integer value, "**(rand() % 3)** constrains the random integer to the range 0-2, and adding 1 shifts the range to 1-3. In this code, the generated value is stored in the variable called **car**.
+You can generate a random integer between 1 and 3 with the code
+
+{% highlight java %}
+int car = (rand() % 3) + 1;
+{% endhighlight %}
+
+In this code, "**rand()**" generates a random integer value, "**(rand() % 3)** constrains the random integer to the range 0-2, and adding 1 shifts the range to 1-3. In this code, the generated value is stored in the variable called **car**.
 
 Grading
 -------
