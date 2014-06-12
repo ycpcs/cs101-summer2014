@@ -3,9 +3,7 @@ layout: default
 title: "Assignment 6: Breakout"
 ---
 
-**Due: Thursday, May 8th**
-
-*Updated 4/16*: Link to example solution should be working now
+**Due: Thursday, August 7th**
 
 Getting Started
 ===============
