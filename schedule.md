@@ -17,7 +17,7 @@ Note: CloudCoder exercises marked with a gold star (<img src="{{site.url}}/image
 > Week 6 (June 23&ndash;27) |  [Lecture 12: Functions that return a value](lectures/lecture12.html), Pg. 126-137, **Exam 1** | Week6 &rarr; [SumBetween](https://cs.ycp.edu/cloudcoder/#exercise?c=7,p=176), [MaxOfThree](https://cs.ycp.edu/cloudcoder/#exercise?c=7,p=177)
 > Week 7 (June 30-July 4) | |
 > Week 8 (July 7&ndash;11) | [Lecture 13: Arrays and functions](lectures/lecture13.html), Pg. 137-152 <br> [Lecture 14: Pointers, reference parameters](lectures/lecture14.html), Pg. 235-243 | Week8 &rarr; [ArraySum](https://cs.ycp.edu/cloudcoder/#exercise?c=7,p=173), [IsAscending](https://cs.ycp.edu/cloudcoder/#exercise?c=7,p=175), [countOdd](https://cs.ycp.edu/cloudcoder/#exercise?c=7,p=174) <br> Week8 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=7,p=178)
-> Week 9 (July 14&ndash;18) |  [Lecture 15: Struct types](lectures/lecture15.html) Pg. 165-171 | Week9 &rarr; [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=7,p=198) [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=7,p=179)
+> Week 9 (July 14&ndash;18) |  [Lecture 15: Struct types](lectures/lecture15.html) Pg. 165-171 | Week9 &rarr; [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=7,p=198), [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=7,p=179)
 > Week 10 (July 21&ndash;25) | [Lecture 16: Using structs with functions](lectures/lecture16.html), Pg. 185-190 <br> [Lecture 17: Pointers to Structures](lectures/lecture17.html)  |
 > Week 11 (July 28&ndash;Aug 1) | [Lecture 18: Composition](lectures/lecture18.html) <br> [Lecture 19: Arrays of Structures](lectures/lecture19.html) |
 > Week 12 (Aug 4&ndash;Aug 8) | **Exam 2** |
