@@ -8,6 +8,32 @@ title: "Assignment 2: Let's Make A Deal"
 -   Milestone 1 is due Tuesday, June 3rd
 -   Milestone 2 is due Tuesday, June 10th
 
+Getting Started
+===============
+
+Start by downloading [CS101\_Assign02.zip](CS101_Assign02.zip), saving it in the directory **H:\\CS101**.
+
+Start a **Cygwin Bash Shell** and run the following commands:
+
+    cd h:
+    cd CS101
+    unzip CS101_Assign02.zip
+    cd CS101_Assign02
+
+Using **Notepad++**, open the file
+
+> **H:\\CS101\\CS101\_Assign02\\MontyHall.cpp**
+
+You will add your code to this file.
+
+When you are ready to compile the program, in the Cygwin window type the command
+
+    make
+
+To run the program, type the command
+
+    ./MontyHall.exe
+
 The Monty Hall Problem
 ======================
 
