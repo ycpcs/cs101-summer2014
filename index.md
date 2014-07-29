@@ -36,6 +36,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Jul 28** - Exam 2 will take place in class on **Thursday, August 7th**.  Practice exams are on the [Practice Exams](practice/index.html) page.
 * **Jun 17** - Exam 1 will take place in class on **Thursday, June 26th**.  As noted earlier, practice exams are posted on the [Practice Exams](practice/index.html) page.  (You should use *both* practice exam 1 and practice exam 2 to study for Exam 1.)  Exam 1 will include both written problems and in-class programming problems.
 * **Jun 10** - Practice exams have been posted on the [Practice Exams](practice/index.html) page.
 * **May 29** - The [Labs](labs/index.html) are now up to date.  At this point the website should have all of the work that is required for the course: please [let me know](mailto:dhovemey@ycp.edu) if you find any missing or incorrect information.
