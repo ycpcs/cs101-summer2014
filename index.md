@@ -36,6 +36,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Aug 7** - The Final Exam will take place in class on **Thursday, August 14th**.  A practice final exam is on the [Practice Exams](practice/index.html) page.
 * **Jul 28** - Exam 2 will take place in class on **Thursday, August 7th**.  Practice exams are on the [Practice Exams](practice/index.html) page.
 * **Jun 17** - Exam 1 will take place in class on **Thursday, June 26th**.  As noted earlier, practice exams are posted on the [Practice Exams](practice/index.html) page.  (You should use *both* practice exam 1 and practice exam 2 to study for Exam 1.)  Exam 1 will include both written problems and in-class programming problems.
 * **Jun 10** - Practice exams have been posted on the [Practice Exams](practice/index.html) page.

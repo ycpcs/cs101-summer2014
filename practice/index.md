@@ -14,3 +14,5 @@ Note: you should use the Spring 2014 Exam 1 and Exam 2 to help you prepare for E
 [Exam 3, Spring 2014](cs101-spring2014-exam03.pdf), [CS101\_Exam03.zip](CS101_Exam03.zip) (zip file for programming questions)
 
 [Exam 4, Spring 2014](cs101-spring2014-exam04.pdf), [CS101\_Exam04.zip](CS101_Exam04.zip) (zip file for programming questions)
+
+[Final Exam, Spring 2014](cs101-spring2014-final.pdf), [CS101\_Final.zip](CS101_Final.zip) (zip file for programming questions)
